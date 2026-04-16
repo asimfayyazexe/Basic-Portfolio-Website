@@ -1,5 +1,5 @@
 # Basic-Portfolio-Website
-Here's what you should build, if you are fresher like me! ⭐
+
 • It's a basic responsive personal portfolio website built using HTML, CSS, and JavaScript.
 It showcases my skills, projects, and goals as a beginner full-stack web developer.
 The site features smooth animations, modern glassmorphism UI, and clean responsive design optimized for all devices.
